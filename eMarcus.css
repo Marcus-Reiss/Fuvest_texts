@@ -1,0 +1,117 @@
+body {
+			background: rgb(204, 204, 153);
+		}
+		#div1 {
+			background: rgb(255,255,255);			
+			text-align: center;
+			position: fixed;
+			top: 0;
+			margin-top: 0;
+			border-bottom: 3px solid black;
+			width: 100%;			
+			z-index: 2;
+		}
+		
+		#bigp {
+			font-size: 50px;
+			text-align: center;
+			background: rgb(255,255,255);
+			border: 1px solid black;
+			padding: 15px;
+			font-weight: bold;
+		}
+		
+		#div2 {
+			position: relative;
+			
+		}
+		
+		.classsolve {
+			position: fixed;
+			bottom: 0;
+		}
+		.h3s {
+			text-align: center;
+		}
+		.div3 {
+			overflow: auto;
+			float: right;			
+			width: 300px;
+			height: 450px;
+			border: 5px double black;
+			padding: 10px;
+			margin: 10px;
+			margin-left: 100px;
+			margin-top: 0;
+		}
+		.img1 { 
+			float: left;
+			border: 2px solid black;
+			margin: 15px;
+			margin-bottom: 5px;
+			margin-top: 5px;
+		}
+		.img2 {
+			margin-bottom: 20px;
+		}
+		#link1 {
+			text-align: center;					
+			margin-top: 40px;
+			margin-bottom: 45px;
+		}
+		#link14 {
+			color: green;
+		}
+		#imgg {
+			border: 2px solid rgb(68, 68, 34);
+			margin: 10px;
+		}
+		.intlink {
+				
+			color: white;
+			padding: 5px;
+		}
+		div .div4 {
+			width: 280px;
+			height: 420px;
+			padding: 20px;
+		}
+		#lastdiv {
+			height: 520px;
+		}
+		#reallastdiv {
+			width: 60%;
+			
+		}
+		.titlewriting {
+			text-align: center;
+		}
+		ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 15px;			
+			padding-bottom: 15px;
+			padding-left: 65px;	
+			overflow: hidden;
+			background-color: #333;
+			border: 2px solid black;
+		}
+		li { float: left; }
+		li a {
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 20px 15px;
+			margin-right: 10px;
+			text-decoration: none;
+			font-size: 25px;
+		}
+		ul a:hover {
+			background-color: rgb(0,0,0);
+		}
+		#last-title {
+			margin-left: 300px;
+		}
+		.lastps {
+			width: 65%;
+		}
